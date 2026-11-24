@@ -1,4 +1,4 @@
-# Antigravity 简体中文全量汉化包 (`antigravity-zh-cn`)
+# Gemini-汉化包 (`Gemini-zh-CN`)
 
 Google Antigravity 桌面客户端深度简体中文汉化词库与实时 DOM 注入引擎。
 
