@@ -1785,7 +1785,19 @@
     "Connect to SSH Host...": "连接到 SSH 主机...",
     "Default and Auto need the terminal sandbox, which isn't available on this host.": "默认模式和自动模式需要终端沙箱，但当前主机不支持此功能。",
     "Thinking effort": "思考强度",
-    "Controls how much time and quota the model spends reasoning before responding. Higher effort improves accuracy on hard problems, at the cost of slower responses and higher quota use.": "控制模型在回复前用于推理的时间与配额。较高的思考强度可提升复杂问题的准确率，但会降低响应速度并消耗更多配额。"
+    "Controls how much time and quota the model spends reasoning before responding. Higher effort improves accuracy on hard problems, at the cost of slower responses and higher quota use.": "控制模型在回复前用于推理的时间与配额。较高的思考强度可提升复杂问题的准确率，但会降低响应速度并消耗更多配额。",
+    "Model cannot be changed while the agent is running": "智能体运行期间无法切换模型",
+    "Model cannot be changed while the agent is running.": "智能体运行期间无法切换模型。",
+    "Cannot change model while the agent is running": "智能体运行期间无法切换模型",
+    "Open SSH Host": "打开 SSH 主机",
+    "Enter [user@]host[:port], or pick a host from your SSH config. Then create the project in its window.": "输入 [user@]host[:port]，或从你的 SSH 配置中选择主机，然后在其窗口中创建项目。",
+    "user@host:port": "用户名@主机:端口",
+    "Connect": "连接",
+    "SSH config:": "SSH 配置：",
+    "~/.ssh/config (default)": "~/.ssh/config（默认）",
+    "SSH config: ~/.ssh/config (default)": "SSH 配置：~/.ssh/config（默认）",
+    "Choose File...": "选择文件...",
+    "No hosts in ~/.ssh/config yet. Type one above.": "~/.ssh/config 中暂无主机，请在上方输入。"
   },
   "reverse_map": {
     "始终询问": "Always Ask",
